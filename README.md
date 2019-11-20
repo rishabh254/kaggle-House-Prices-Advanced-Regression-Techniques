@@ -2,11 +2,11 @@
 EDA, significance testing and modelling of the House Prices: Advanced Regression Techniques competition of Kaggle.
 
 To know more about the competition please follow the link: 
-https://www.kaggle.com/c/ieee-fraud-detection
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 # Data:
 The data could be found from the following link :
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 # Install:
 To run this notebook:
