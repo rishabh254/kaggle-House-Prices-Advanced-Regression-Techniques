@@ -5,7 +5,7 @@ To know more about the competition please follow the link:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 # Brief Overview of notebook:
-* [Data Preprocessing](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
+* [Data Preprocessing](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - data cleaning, label encoding, making data suitable for analysis
 * [Pairwise Correlations](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - pairwise Pearson correlation analysis on all pairs of 15 significant features.
 * [Informative Plots](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - five informative plots revealing aspects of this data.
 * [Handcrafted Scoring Function](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - a handcrafted scoring function to rank houses by “desirability”
