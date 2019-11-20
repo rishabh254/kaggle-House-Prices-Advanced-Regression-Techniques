@@ -4,6 +4,9 @@ EDA, significance testing and modelling of the House Prices: Advanced Regression
 To know more about the competition please follow the link: 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
+# Brief Overview of notebook:
+* [Data Preprocessing](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
+
 # Data:
 The data could be found from the following link :
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
