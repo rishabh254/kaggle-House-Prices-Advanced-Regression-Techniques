@@ -6,15 +6,15 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 # Brief Overview of notebook:
 * [Data Preprocessing](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Pairwise Correlations](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Informative Plots](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Handcrafted Scoring Function](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Pairwise Distance Function](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Clustering](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Linear Regression](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [External Dataset](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Permutation Test](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
-* [Final result](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb)
+* [Pairwise Correlations](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - pairwise Pearson correlation analysis on all pairs of 15 significant features.
+* [Informative Plots](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - five informative plots revealing aspects of this data.
+* [Handcrafted Scoring Function](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - a handcrafted scoring function to rank houses by “desirability”
+* [Pairwise Distance Function](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - a house “pairwise distance function”, which measures the similarity of two properties
+* [Clustering](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - cluster the houses using distance function into 5 to 20 classes and checking how well the clusters reflect neighborhood boundaries
+* [Linear Regression](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - a simple linear regression model on one or more variables to predict the pricing as a function of other variables
+* [External Dataset](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - Identify at least one external data set to integrate into price prediction analysis to make it better.
+* [Permutation Test](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) - build single-variable regression models, and for each one do a permutation test to determine a p-value of how good the predictions of the housing prices are.
+* [Final result](https://github.com/rishabh254/kaggle-House-Prices-Advanced-Regression-Techniques/blob/master/cse519_hw3_goel_rishabh_112714848.ipynb) -  build the best prediction model to solve the task
 
 # Data:
 The data could be found from the following link :
